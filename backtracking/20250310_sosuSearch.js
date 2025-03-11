@@ -1,4 +1,4 @@
-// 완전텀색 > 소수 찾기
+// 완전탐색 > 소수 찾기
 // 프로그래머스 level2 - 소수찾기
 function solution(numbers) {
     const answer = [];
